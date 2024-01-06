@@ -1,0 +1,15 @@
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\obj\Debug\netstandard2.1\M0r19un.LC_Lib.csproj.AssemblyReference.cache
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\obj\Debug\netstandard2.1\PluginInfo.cs
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\obj\Debug\netstandard2.1\M0r19un.LC_Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\obj\Debug\netstandard2.1\M0r19un.LC_Lib.AssemblyInfoInputs.cache
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\obj\Debug\netstandard2.1\M0r19un.LC_Lib.AssemblyInfo.cs
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\obj\Debug\netstandard2.1\M0r19un.LC_Lib.csproj.CoreCompileInputs.cache
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\bin\Debug\netstandard2.1\M0r19un.LC_Lib.deps.json
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\bin\Debug\netstandard2.1\M0r19un.LC_Lib.dll
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\bin\Debug\netstandard2.1\M0r19un.LC_Lib.pdb
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\bin\Debug\netstandard2.1\MMHOOK_Assembly-CSharp.dll
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\obj\Debug\netstandard2.1\M0r19un.LC_Lib.csproj.CopyComplete
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\obj\Debug\netstandard2.1\M0r19un.LC_Lib.dll
+D:\Projects\MSVSCode\LethalCompany\LC_Lib\M0r19un.LC_Lib\obj\Debug\netstandard2.1\M0r19un.LC_Lib.pdb
